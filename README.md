@@ -16,6 +16,7 @@ The workflow includes the following steps:
 1. **Document Loading and Splitting**: Load and preprocess documents.
 2. **Storage and Retrieval**: Store embeddings for efficient retrieval.
 3. **Q&A Generation**: Use a `RetrievalQA` chain for generating answers.
+4. ![overview.jpeg](attachment:overview.png)
 
 ## Installation
 
