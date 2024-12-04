@@ -17,8 +17,6 @@ The workflow includes the following steps:
 2. **Storage and Retrieval**: Store embeddings for efficient retrieval.
 3. **Q&A Generation**: Use a `RetrievalQA` chain for generating answers.
 
-![Workflow Overview](attachment:overview.jpeg)
-![overview.jpeg](attachment:overview.jpeg)
 ## Installation
 
 To use this repository, clone it and install the required dependencies:
