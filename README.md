@@ -28,14 +28,14 @@ git clone https://github.com/yourusername/hugging-face-rag.git
 cd hugging-face-rag
 pip install -r requirements.txt
 ```
-##Usage
+## Usage
 Add your Hugging Face API key to a .env file:
 ```bash
 HUGGINGFACE_API_KEY=<your-api-key>
 ```
 Run the notebook to explore the RAG workflow.
 
-##Dependencies
+## Dependencies
 The notebook requires the following libraries:
 
 Hugging Face Transformers
