@@ -11,12 +11,12 @@ This repository demonstrates a Retrieval Augmented Generation (RAG) workflow usi
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
-
+![Overview](overview.png)
 The workflow includes the following steps:
 1. **Document Loading and Splitting**: Load and preprocess documents.
 2. **Storage and Retrieval**: Store embeddings for efficient retrieval.
 3. **Q&A Generation**: Use a `RetrievalQA` chain for generating answers.
-4. ![Overview](overview.png)
+
 
 ## Installation
 
