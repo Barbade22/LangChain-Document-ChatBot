@@ -1,4 +1,4 @@
-# HuggingFace LangChain-based RAG
+# HuggingFace & LangChain-based RAG
 
 This repository demonstrates a Retrieval Augmented Generation (RAG) workflow using Hugging Face's transformers and related tools. The notebook explores document loading, splitting, storage, retrieval, and Q&A generation using a `RetrievalQA` chain.
 
